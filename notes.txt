@@ -1,6 +1,11 @@
 task to do list
 1. makan
+- bakso
+- mi yamin
 2. tidur
+- siang
 3. coding
+- asp.net
+- java
 4. makan lagi
 5. makan lagi ke 3
