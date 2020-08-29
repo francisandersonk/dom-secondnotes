@@ -1,5 +1,5 @@
 task to do list
 1. makan
 2. tidur
-3. bangun
+3. coding
 4. makan lagi
