@@ -1,6 +1,6 @@
 task to do list
 1. makan
+- rujak
 2. tidur
 3. coding
-4. makan lagi
 5. makan lagi ke 3
